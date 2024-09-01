@@ -1,0 +1,42 @@
+[
+    {
+        "inicio": 2022,
+        "fim": 2023,
+        "nome": "Cuscuz.in",
+        "descricao": "Servidor focado em usuários brasileiros que se identificavam como nordestinos",
+        "imagem": "",
+        "tipo": "mastodon"
+    },
+    {
+        "inicio": 2022,
+        "fim": 2024,
+        "nome": "Vira-lata.org",
+        "descricao": "Servidor dedicado à filosofia do deboísmo",
+        "imagem": "",
+        "tipo": "mastodon"
+    },
+    {
+        "inicio": 2023,
+        "fim": 2024,
+        "nome": "marte.city",
+        "descricao": "Servidor pessoal",
+        "imagem": "",
+        "tipo": "firefish"
+    },
+    {
+        "inicio": "...",
+        "fim": 2024,
+        "nome": "Nuvem.lgbt",
+        "descricao": "Instância brasileira do Mastodon voltada para pessoas LGBTQIAPN+",
+        "imagem": "",
+        "tipo": "mastodon"
+    },
+    {
+        "inicio": "...",
+        "fim": 2023,
+        "nome": "social.contexto.space",
+        "descricao": "Servidor pessoal",
+        "imagem": "",
+        "tipo": "firefish"
+    }
+]
