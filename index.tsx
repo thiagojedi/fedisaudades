@@ -19,7 +19,7 @@ const IndexPage = () => {
                         <article>
                             <img
                                 src={instancia.imagem ||
-                                    "/images/flower.svg"}
+                                    "./images/flower.svg"}
                                 alt={`Imagem da instância ${instancia.nome}`}
                             />
                             <h2>

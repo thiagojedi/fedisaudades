@@ -10,7 +10,7 @@ const Layout: FC = ({ children }) => (
             />
             <title>Eternas Saudades</title>
 
-            <link rel="stylesheet" href="styles/global.css" />
+            <link rel="stylesheet" href="./styles/global.css" />
         </head>
         <body>
             {children}
